@@ -1,0 +1,6 @@
+amid==0.13.0
+connectome
+deli
+imops
+nibabel
+numpy
